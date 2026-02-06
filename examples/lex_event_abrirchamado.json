@@ -1,0 +1,12 @@
+{
+  "sessionState": {
+    "intent": {
+      "name": "AbrirChamado",
+      "slots": {
+        "nome": { "value": { "interpretedValue": "Ana" } },
+        "email": { "value": { "interpretedValue": "ana@email.com" } },
+        "descricao": { "value": { "interpretedValue": "Compra não reconhecida no cartão." } }
+      }
+    }
+  }
+}

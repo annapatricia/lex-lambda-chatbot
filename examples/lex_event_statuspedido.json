@@ -1,0 +1,14 @@
+{
+  "sessionState": {
+    "intent": {
+      "name": "StatusPedido",
+      "slots": {
+        "pedido_id": {
+          "value": {
+            "interpretedValue": "123"
+          }
+        }
+      }
+    }
+  }
+}
